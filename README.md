@@ -1,0 +1,1 @@
+Authenication in SPA with Laravel and Raact.js
